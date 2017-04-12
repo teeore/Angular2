@@ -1,0 +1,78 @@
+<div class='col-sm-12' id='station-content'>
+    <!-- <h5>Stations Details</h5> -->
+    <table class="table table-striped table-bordered">
+        <template ngFor let-station [ngForOf]="stationDetails">
+            <thead>
+                <tr>
+                    <th class="col-sm-1" rowspan="3">Station</th>
+                    <th class="col-sm-1" rowspan="3">Net</th>
+                    <th class="col-sm-3" rowspan="3">Program</th>
+                    <th class="col-sm-1" rowspan="3">Seg</th>
+                    <th rowspan="3" class="no-border"></th>
+                    <th class="col-sm-2" colspan="7">Rentrak ALL</th>
+                    <th rowspan="3" class="no-border"></th>
+                    <th class="col-sm-2" colspan="7">{{demoLabel}}</th>
+                </tr>
+                <tr>
+                    <th colspan="4">Time Slot</th>
+                    <th colspan="3">Program Avg</th>
+                    <th colspan="4">Time Slot</th>
+                    <th colspan="3">Program Avg</th>
+                </tr>
+                <tr>
+                    <th>RT</th>
+                    <th>SH</th>
+                    <th>PT</th>
+                    <th>Rank</th>
+                    <th>RT</th>
+                    <th>SH</th>
+                    <th>PT</th>
+                    <th>RT</th>
+                    <th>SH</th>
+                    <th>PT</th>
+                    <th>Rank</th>
+                    <th>RT</th>
+                    <th>SH</th>
+                    <th>PT</th>
+                </tr>
+            </thead>
+            <tbody>
+                <template ngFor let-item [ngForOf]="station.dates">
+                    <template ngFor let-time [ngForOf]="item.timeSlots">
+                        <!-- slider not yet filtering -->
+                        <!-- <template ngFor let-time [ngForOf]="item.timeSlots | sliderPipe : minTime"> -->
+                        <template ngFor let-detail [ngForOf]="time.stations |  stationPipe : stationValue">
+                            <template ngFor let-demo [ngForOf]="detail.demographics  | demoPipe : demoValue">
+                                <tr>
+                                    <td colspan="20" class="no-border time-td"><strong>{{updatetimeSlot}}:00</strong></td>
+                                </tr>
+                                <tr>
+                                    <td>{{stationLabel}}</td>
+                                    <td>{{stationLabel}}</td>
+                                    <td>{{detail.seriesName}}</td>
+                                    <td>[BAR</td>
+                                    <td class="no-border">&nbsp;</td>
+                                    <td>{{demo.rt}}</td>
+                                    <td>{{demo.sh}}</td>
+                                    <td>{{demo.pt}}</td>
+                                    <td>TBD</td>
+                                    <td>{{demo.rt}}</td>
+                                    <td>{{demo.sh}}</td>
+                                    <td>{{demo.pt}}</td>
+                                    <td class="no-border">&nbsp;</td>
+                                    <td>{{demo.rt}}</td>
+                                    <td>{{demo.sh}}</td>
+                                    <td>{{demo.pt}}</td>
+                                    <td>TBD</td>
+                                    <td>{{demo.rt}}</td>
+                                    <td>{{demo.sh}}</td>
+                                    <td>{{demo.pt}}</td>
+                                </tr>
+                            </template>
+                        </template>
+                    </template>
+                </template>
+            </tbody>
+        </template>
+    </table>
+</div>

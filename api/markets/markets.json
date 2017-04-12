@@ -1,0 +1,176 @@
+[{
+  "id":22,
+  "name":"Austin",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":28,
+  "name":"Beaumont-Port Arthur",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":34,
+  "name":"Binghamton",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":35,
+  "name":"Birmingham (Ann and Tusc)",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":43,
+  "name":"Boston (Manchester)",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":60,
+  "name":"Champaign&Sprngfld-Decatur",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":70,
+  "name":"Chicago",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":88,
+  "name":"Corpus Christi",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":99,
+  "name":"Detroit",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":117,
+  "name":"Fargo-Valley City",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":135,
+  "name":"Ft. Smith-Fay-Sprngdl-Rgrs",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":169,
+  "name":"Honolulu",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":181,
+  "name":"Jackson, TN",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":182,
+  "name":"Jacksonville",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":185,
+  "name":"Johnstown-Altoona-St Colge",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":197,
+  "name":"Lafayette, IN",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":222,
+  "name":"Lubbock",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":237,
+  "name":"Memphis",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":239,
+  "name":"Meridian",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":243,
+  "name":"Milwaukee",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":249,
+  "name":"Mobile-Pensacola (Ft Walt)",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":269,
+  "name":"New Orleans",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":270,
+  "name":"New York",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":276,
+  "name":"Oklahoma City",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":282,
+  "name":"Ottumwa-Kirksville",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":288,
+  "name":"Parkersburg",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":293,
+  "name":"Philadelphia",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":294,
+  "name":"Phoenix (Prescott)",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":298,
+  "name":"Portland-Auburn",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":315,
+  "name":"Richmond-Petersburg",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":331,
+  "name":"San Antonio",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":353,
+  "name":"South Bend-Elkhart",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":366,
+  "name":"Syracuse",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":408,
+  "name":"Wichita Falls & Lawton",
+  "timezone":"CST",
+  "size":100
+},{
+  "id":412,
+  "name":"Wilkes Barre-Scranton-Hztn",
+  "timezone":"CST",
+  "size":100
+}]

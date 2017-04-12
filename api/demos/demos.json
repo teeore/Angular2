@@ -1,0 +1,301 @@
+[{
+  "id":43,
+  "name":"$0 - $29,999",
+  "size":100
+},{
+  "id":44,
+  "name":"$0 - $49,999",
+  "size":100
+},{
+  "id":45,
+  "name":"$0 - $74,999",
+  "size":100
+},{
+  "id":46,
+  "name":"$100,000 - $124,999",
+  "size":100
+},{
+  "id":47,
+  "name":"$100,000+",
+  "size":100
+},{
+  "id":48,
+  "name":"$125,000+",
+  "size":100
+},{
+  "id":49,
+  "name":"$200,000+",
+  "size":100
+},{
+  "id":50,
+  "name":"$30,000 - $49,999",
+  "size":100
+},{
+  "id":51,
+  "name":"$50,000 - $74,999",
+  "size":100
+},{
+  "id":52,
+  "name":"$50,000+",
+  "size":100
+},{
+  "id":53,
+  "name":"$75,000 - $99,999",
+  "size":100
+},{
+  "id":54,
+  "name":"$75,000+",
+  "size":100
+},{
+  "id":2,
+  "name":"A18-24",
+  "size":100
+},{
+  "id":3,
+  "name":"A18-34",
+  "size":100
+},{
+  "id":4,
+  "name":"A18-49",
+  "size":100
+},{
+  "id":5,
+  "name":"A21+",
+  "size":100
+},{
+  "id":55,
+  "name":"A21-24",
+  "size":100
+},{
+  "id":6,
+  "name":"A21-34",
+  "size":100
+},{
+  "id":7,
+  "name":"A25-34",
+  "size":100
+},{
+  "id":8,
+  "name":"A25-49",
+  "size":100
+},{
+  "id":9,
+  "name":"A25-54",
+  "size":100
+},{
+  "id":10,
+  "name":"A35+",
+  "size":100
+},{
+  "id":11,
+  "name":"A35-54",
+  "size":100
+},{
+  "id":12,
+  "name":"A35-64",
+  "size":100
+},{
+  "id":13,
+  "name":"A50+",
+  "size":100
+},{
+  "id":14,
+  "name":"A65+",
+  "size":100
+},{
+  "id":56,
+  "name":"African American",
+  "size":100
+},{
+  "id":57,
+  "name":"Asian American",
+  "size":100
+},{
+  "id":58,
+  "name":"Children Present in HH",
+  "size":100
+},{
+  "id":59,
+  "name":"Female Present in HH",
+  "size":100
+},{
+  "id":60,
+  "name":"Hispanic",
+  "size":100
+},{
+  "id":15,
+  "name":"M18-24",
+  "size":100
+},{
+  "id":16,
+  "name":"M18-34",
+  "size":100
+},{
+  "id":17,
+  "name":"M18-49",
+  "size":100
+},{
+  "id":18,
+  "name":"M21+",
+  "size":100
+},{
+  "id":19,
+  "name":"M21-24",
+  "size":100
+},{
+  "id":20,
+  "name":"M21-34",
+  "size":100
+},{
+  "id":21,
+  "name":"M25-34",
+  "size":100
+},{
+  "id":22,
+  "name":"M25-49",
+  "size":100
+},{
+  "id":23,
+  "name":"M25-54",
+  "size":100
+},{
+  "id":24,
+  "name":"M35+",
+  "size":100
+},{
+  "id":25,
+  "name":"M35-54",
+  "size":100
+},{
+  "id":26,
+  "name":"M35-64",
+  "size":100
+},{
+  "id":27,
+  "name":"M50+",
+  "size":100
+},{
+  "id":28,
+  "name":"M65+",
+  "size":100
+},{
+  "id":61,
+  "name":"Male Present in HH",
+  "size":100
+},{
+  "id":62,
+  "name":"No Children Present in HH",
+  "size":100
+},{
+  "id":76,
+  "name":"Other",
+  "size":100
+},{
+  "id":63,
+  "name":"Presence of Children Ages 0-3 in HH",
+  "size":100
+},{
+  "id":64,
+  "name":"Presence of Children Ages 0-6 in HH",
+  "size":100
+},{
+  "id":65,
+  "name":"Presence of Children Ages 10-12 in HH",
+  "size":100
+},{
+  "id":66,
+  "name":"Presence of Children Ages 10-18 in HH",
+  "size":100
+},{
+  "id":67,
+  "name":"Presence of Children Ages 13-15 in HH",
+  "size":100
+},{
+  "id":68,
+  "name":"Presence of Children Ages 16-18 in HH",
+  "size":100
+},{
+  "id":69,
+  "name":"Presence of Children Ages 4-6 in HH",
+  "size":100
+},{
+  "id":70,
+  "name":"Presence of Children Ages 4-9 in HH",
+  "size":100
+},{
+  "id":71,
+  "name":"Presence of Children Ages 7-18 in HH",
+  "size":100
+},{
+  "id":72,
+  "name":"Presence of Children Ages 7-9 in HH",
+  "size":100
+},{
+  "id":73,
+  "name":"Single-Person HH, Female",
+  "size":100
+},{
+  "id":74,
+  "name":"Single-Person HH, Male",
+  "size":100
+},{
+  "id":29,
+  "name":"W18-24",
+  "size":100
+},{
+  "id":30,
+  "name":"W18-34",
+  "size":100
+},{
+  "id":31,
+  "name":"W18-49",
+  "size":100
+},{
+  "id":32,
+  "name":"W21+",
+  "size":100
+},{
+  "id":33,
+  "name":"W21-24",
+  "size":100
+},{
+  "id":34,
+  "name":"W21-34",
+  "size":100
+},{
+  "id":35,
+  "name":"W25-34",
+  "size":100
+},{
+  "id":36,
+  "name":"W25-49",
+  "size":100
+},{
+  "id":37,
+  "name":"W25-54",
+  "size":100
+},{
+  "id":38,
+  "name":"W35+",
+  "size":100
+},{
+  "id":39,
+  "name":"W35-54",
+  "size":100
+},{
+  "id":40,
+  "name":"W35-64",
+  "size":100
+},{
+  "id":41,
+  "name":"W50+",
+  "size":100
+},{
+  "id":42,
+  "name":"W65+",
+  "size":100
+},{
+  "id":75,
+  "name":"White",
+  "size":100
+}]

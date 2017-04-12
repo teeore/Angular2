@@ -1,0 +1,9 @@
+<div class='col-sm-4'>
+<h5>Demographics</h5>
+        <select multiple (change)="onChange($event)">
+            <option *ngFor="let item of demographics;let i = index" [selected]= "item.id==selectedDemo.id" [value]="item.id">{{item.name}}</option>
+        </select>
+</div>
+<div class="clear bottom-grid"></div>
+
+

@@ -1,0 +1,8 @@
+<div class='col-sm-12' id="slider-wrapper">
+<h5>Timeframe: {{timeRange}}</h5>
+       <p-slider [(ngModel)] = "rangeValues" [range]="true" [min]="0" [max]="1440" [step]="60" (onChange)=sliderChange($event)></p-slider>
+
+</div>
+<div class="clear bottom-grid"></div>
+
+

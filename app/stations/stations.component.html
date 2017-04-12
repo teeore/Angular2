@@ -1,0 +1,6 @@
+<div class='col-sm-4'>
+    <h5>Stations</h5>
+    <select multiple (change)="onChange($event)">
+        <option *ngFor="let station of stations;let i = index" [selected]= "station.id==selectedStation.id" [value]="station.id">{{station.name}}</option>
+    </select>
+</div>

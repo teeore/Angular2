@@ -1,0 +1,13 @@
+<div class='container-fluid'>
+    <h1>{{pageTitle}}</h1>
+    <div class="panel panel-info top-panel">
+        <div class="panel-heading">Single Day Grid</div>
+        <slider (startRange) = "minTime = $event"  (endRange) = "maxTime = $event" ></slider>
+        <stations (valueSelected)="stationValue = $event" (labelSelected)="stationLabel= $event"></stations>
+        <demographics (valueDemo)="demoValue = $event" (labelDemo)="demoLabel= $event"></demographics>
+    </div>
+    <div class="panel panel-info">
+        <div class="panel-heading">October 29th, 2015 New York</div>
+        <station-details [stationValue]="stationValue" [stationLabel]="stationLabel" [demoLabel]="demoLabel" [demoValue]="demoValue" [minTime]="minTime" [maxTime]="maxTime"></station-details>
+    </div>
+</div>

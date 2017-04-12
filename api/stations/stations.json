@@ -1,0 +1,2351 @@
+[{
+  "id":136,
+  "name":"A&E (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":132,
+  "name":"AXS TV",
+  "callSign":"",
+  "network":""
+},{
+  "id":135,
+  "name":"American Heroes Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":134,
+  "name":"American Movie Classics (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":133,
+  "name":"Animal Planet (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":131,
+  "name":"Azteca Cable",
+  "callSign":"",
+  "network":""
+},{
+  "id":130,
+  "name":"BBC America",
+  "callSign":"",
+  "network":""
+},{
+  "id":129,
+  "name":"BET: Black Entertainment Television (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":128,
+  "name":"Bloomberg Television",
+  "callSign":"",
+  "network":""
+},{
+  "id":127,
+  "name":"Bravo (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":126,
+  "name":"Bravo (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":122,
+  "name":"CMT: Country Music Television (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":121,
+  "name":"CMT: Country Music Television (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":120,
+  "name":"CNBC: Consumer News & Business Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":119,
+  "name":"CNN",
+  "callSign":"",
+  "network":""
+},{
+  "id":125,
+  "name":"Cartoon Network/Adult Swim (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":124,
+  "name":"Cartoon Network/Adult Swim (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":123,
+  "name":"Centric",
+  "callSign":"",
+  "network":""
+},{
+  "id":1668,
+  "name":"Chiller",
+  "callSign":"",
+  "network":""
+},{
+  "id":209,
+  "name":"Cine latino (Espanol)",
+  "callSign":"",
+  "network":""
+},{
+  "id":118,
+  "name":"Comedy Central (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":117,
+  "name":"Comedy Central (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":116,
+  "name":"Cooking Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":107,
+  "name":"DIY: Do-It-Yourself",
+  "callSign":"",
+  "network":""
+},{
+  "id":1753,
+  "name":"DVUE New Orleans, La. (Bounce TV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":115,
+  "name":"Daystar Television Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":114,
+  "name":"Destination America",
+  "callSign":"",
+  "network":""
+},{
+  "id":113,
+  "name":"Discovery Channel (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":351,
+  "name":"Discovery Channel en Espanol",
+  "callSign":"",
+  "network":""
+},{
+  "id":112,
+  "name":"Discovery Family Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":111,
+  "name":"Disney Channel (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":110,
+  "name":"Disney Channel (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":109,
+  "name":"Disney XD (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":108,
+  "name":"Disney XD (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":106,
+  "name":"E! - Entertainment Television",
+  "callSign":"",
+  "network":""
+},{
+  "id":13,
+  "name":"E! - Entertainment Television (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1427,
+  "name":"EDAY Fargo, N.D. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":166,
+  "name":"ESBT South Bend (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":105,
+  "name":"ESPN",
+  "callSign":"",
+  "network":""
+},{
+  "id":103,
+  "name":"ESPN Deportes",
+  "callSign":"",
+  "network":""
+},{
+  "id":104,
+  "name":"ESPN2",
+  "callSign":"",
+  "network":""
+},{
+  "id":102,
+  "name":"ESPNEWS",
+  "callSign":"",
+  "network":""
+},{
+  "id":101,
+  "name":"ESPNU",
+  "callSign":"",
+  "network":""
+},{
+  "id":100,
+  "name":"Esquire Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":12,
+  "name":"Esquire Network (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":98,
+  "name":"FOX Business Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":97,
+  "name":"FOX Deportes",
+  "callSign":"",
+  "network":""
+},{
+  "id":96,
+  "name":"FOX News Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":95,
+  "name":"FOX Sports 1",
+  "callSign":"",
+  "network":""
+},{
+  "id":94,
+  "name":"FOX Sports 2",
+  "callSign":"",
+  "network":""
+},{
+  "id":93,
+  "name":"FX Movie Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":92,
+  "name":"FX Network (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":91,
+  "name":"FYI",
+  "callSign":"",
+  "network":""
+},{
+  "id":172,
+  "name":"Flix",
+  "callSign":"",
+  "network":""
+},{
+  "id":201,
+  "name":"Flix (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":99,
+  "name":"Food Network (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":2,
+  "name":"Freeform (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1,
+  "name":"Freeform (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":90,
+  "name":"Galavision",
+  "callSign":"",
+  "network":""
+},{
+  "id":5,
+  "name":"Galavision (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":89,
+  "name":"Game Show Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":88,
+  "name":"Golf Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":87,
+  "name":"Great American Country",
+  "callSign":"",
+  "network":""
+},{
+  "id":81,
+  "name":"HDNet Movies",
+  "callSign":"",
+  "network":""
+},{
+  "id":79,
+  "name":"HGTV: Home & Garden Television (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":77,
+  "name":"HSN",
+  "callSign":"",
+  "network":""
+},{
+  "id":85,
+  "name":"Hallmark (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":84,
+  "name":"Hallmark (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":83,
+  "name":"Hallmark Movies & Mysteries (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":82,
+  "name":"Hallmark Movies & Mysteries (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":80,
+  "name":"Headline News",
+  "callSign":"",
+  "network":""
+},{
+  "id":78,
+  "name":"History Channel (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":76,
+  "name":"IFC",
+  "callSign":"",
+  "network":""
+},{
+  "id":1773,
+  "name":"IFC (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":75,
+  "name":"INSP",
+  "callSign":"",
+  "network":""
+},{
+  "id":73,
+  "name":"ION (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1605,
+  "name":"ION (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":74,
+  "name":"Investigation Discovery (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1757,
+  "name":"K-JAC Beaumont, Texas (NBC) [KBMT2]",
+  "callSign":"",
+  "network":""
+},{
+  "id":379,
+  "name":"KABB San Antonio, Texas (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":194,
+  "name":"KAET Phoenix, Ariz. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1377,
+  "name":"KAFT Fayetteville, Ark. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1164,
+  "name":"KAKW Killeen, Texas. (UNIVIS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":456,
+  "name":"KAMC Lubbock, Texas (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":193,
+  "name":"KASW Phoenix, Ariz. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1090,
+  "name":"KAUT Oklahoma City, Okla. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":873,
+  "name":"KAUZ Wichita Falls, Texas (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1258,
+  "name":"KAZT Prescott, Ariz. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":885,
+  "name":"KBMT Beaumont, Texas. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":949,
+  "name":"KBTV Port Arthur, Texas. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1432,
+  "name":"KBVO Llano, Texas (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":451,
+  "name":"KCBD Lubbock, Texas (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":376,
+  "name":"KCWX Fredericksburg, Texas (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":901,
+  "name":"KDF Corpus Christi, Texas (Ind) [K47DF]",
+  "callSign":"",
+  "network":""
+},{
+  "id":911,
+  "name":"KEDT Corpus Christi, Texas. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1542,
+  "name":"KENS San Antonio, Texas (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1356,
+  "name":"KETA Oklahoma City, Okla. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":185,
+  "name":"KEYE Austin, Texas (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1613,
+  "name":"KEYE2 Austin, Texas (Telemund)",
+  "callSign":"",
+  "network":""
+},{
+  "id":922,
+  "name":"KFDM Beaumont, Texas. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1028,
+  "name":"KFDM2 Beaumont, Texas (CW Plus)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1106,
+  "name":"KFDX Wichita Falls, Texas (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":924,
+  "name":"KFME+ (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1287,
+  "name":"KFOR Oklahoma City, Okla. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1362,
+  "name":"KFPH Flagstaff, Ariz. (UniMas)",
+  "callSign":"",
+  "network":""
+},{
+  "id":925,
+  "name":"KFSM Fort Smith, Ark. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":987,
+  "name":"KFTA Fort Smith, Ark. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":926,
+  "name":"KFVE Honolulu, Hawaii. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1744,
+  "name":"KGLA Hammond, La. (Telemund)",
+  "callSign":"",
+  "network":""
+},{
+  "id":934,
+  "name":"KGMB Honolulu, Hawaii. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":163,
+  "name":"KHBS+ (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1742,
+  "name":"KHBS2 Fort Smith, Ark. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":935,
+  "name":"KHET Honolulu, HI. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":938,
+  "name":"KHNL Honolulu, Hawaii (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":939,
+  "name":"KHON Honolulu, Hawaii. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1712,
+  "name":"KHON2 Honolulu, Hawaii (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":944,
+  "name":"KIII Corpus Christi, Texas (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1201,
+  "name":"KIKU Honolulu, Hawaii. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":580,
+  "name":"KITV+ (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1681,
+  "name":"KITV2 Honolulu, Hawaii. (MeTV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1196,
+  "name":"KJBO Wichita Falls, TX (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":951,
+  "name":"KJTL Wichita Falls, Texas (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":458,
+  "name":"KJTV Lubbock, Texas (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1507,
+  "name":"KJTV-CD Lubbock, Texas (FOX34 News Now)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1781,
+  "name":"KJWP Wilmington, DE. (Me TV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1606,
+  "name":"KKTM Altus, Okla. (Telemund)",
+  "callSign":"",
+  "network":""
+},{
+  "id":452,
+  "name":"KLBK Lubbock, Texas (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1437,
+  "name":"KLCW Lubbock, Texas (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":186,
+  "name":"KLRU Austin, Texas (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":966,
+  "name":"KMOH Kingman, Ariz. (MundoMax)",
+  "callSign":"",
+  "network":""
+},{
+  "id":454,
+  "name":"KMYL Lubbock, Texas (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":380,
+  "name":"KMYS Kerrville, Texas (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1443,
+  "name":"KNIC San Antonio, Texas (UniMas)",
+  "callSign":"",
+  "network":""
+},{
+  "id":187,
+  "name":"KNVA Austin, Texas (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1367,
+  "name":"KNWA Rogers, Ark. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":197,
+  "name":"KNXV Phoenix, Ariz. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":979,
+  "name":"KOCB Oklahoma City, Okla. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1151,
+  "name":"KOCO Oklahoma City, Okla. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":982,
+  "name":"KOKH Oklahoma City, Okla. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1062,
+  "name":"KOPX Oklahoma City, Okla. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1311,
+  "name":"KORO Corpus Christi, Texas. (Univis)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1608,
+  "name":"KPDF Phoenix, AZ (Azteca)",
+  "callSign":"",
+  "network":""
+},{
+  "id":192,
+  "name":"KPHO Phoenix, Ariz. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":196,
+  "name":"KPNX Mesa, Ariz. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1460,
+  "name":"KPPX Tolleson, Ariz. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":453,
+  "name":"KPTB Lubbock, Texas (GLC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":378,
+  "name":"KPXL Uvalde, Texas (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":993,
+  "name":"KRIS Corpus Christi, Texas. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":377,
+  "name":"KSAT San Antonio, Texas (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":195,
+  "name":"KSAZ Phoenix, Ariz. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1217,
+  "name":"KSBI Oklahoma City, Okla. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":152,
+  "name":"KSHB-OT Kansas City, Mo. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1230,
+  "name":"KSWO Lawton, Okla. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":199,
+  "name":"KTAZ Phoenix, Ariz. (Telemund)",
+  "callSign":"",
+  "network":""
+},{
+  "id":182,
+  "name":"KTBC Austin, Texas (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1029,
+  "name":"KTOV Corpus Christi, Texas (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1495,
+  "name":"KTTZ Lubbock, Texas (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1003,
+  "name":"KTUZ Shawnee, Okla. (Telemun)",
+  "callSign":"",
+  "network":""
+},{
+  "id":191,
+  "name":"KTVK Phoenix, Ariz. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1486,
+  "name":"KTVO Kirksville, Mo. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1694,
+  "name":"KTVO2 Kirksville, Mo. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":200,
+  "name":"KTVW Phoenix, Ariz. (Univis)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1500,
+  "name":"KUIL Beaumont, Texas. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1722,
+  "name":"KUQI Corpus Christi, Texas (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":198,
+  "name":"KUTP Phoenix, Ariz. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":382,
+  "name":"KVDA San Antonio, Texas (Telemund)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1623,
+  "name":"KVDF San Antonio, Texas (Azteca)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1266,
+  "name":"KVLY Fargo, N.D. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1440,
+  "name":"KVRR+ (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":183,
+  "name":"KVUE Austin, Texas (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1574,
+  "name":"KVUE2 Austin, TX (Estrella)",
+  "callSign":"",
+  "network":""
+},{
+  "id":381,
+  "name":"KWEX San Antonio, Texas (Univis)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1273,
+  "name":"KWTV Oklahoma City, Okla. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":184,
+  "name":"KXAN Austin, Texas (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":986,
+  "name":"KXNW Eureka Springs, Ark. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":158,
+  "name":"KXTQ Lubbock, Texas (Telemun)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1536,
+  "name":"KYOU Ottumwa, Iowa (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":155,
+  "name":"KYVV Del Rio, Texas. (MundoMax)",
+  "callSign":"",
+  "network":""
+},{
+  "id":258,
+  "name":"KYW Philadelphia, Pa. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1284,
+  "name":"KZTV Corpus Christi, Texas. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":72,
+  "name":"Lifetime (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":71,
+  "name":"Lifetime Movie Network (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":137,
+  "name":"Lifetime Movie Network (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":70,
+  "name":"Logo (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1602,
+  "name":"Logo (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":69,
+  "name":"MLB Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":68,
+  "name":"MSNBC",
+  "callSign":"",
+  "network":""
+},{
+  "id":190,
+  "name":"MTV Tr3s (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":67,
+  "name":"MTV2 (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":66,
+  "name":"MTV2 (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":65,
+  "name":"MTV: Music Television (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":64,
+  "name":"MTV: Music Television (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":60,
+  "name":"NBA TV",
+  "callSign":"",
+  "network":""
+},{
+  "id":58,
+  "name":"NBC Universo",
+  "callSign":"",
+  "network":""
+},{
+  "id":1078,
+  "name":"NBC Universo (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":59,
+  "name":"NBCSN",
+  "callSign":"",
+  "network":""
+},{
+  "id":57,
+  "name":"NFL: National Football League Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":1435,
+  "name":"NRIS Corpus Christi, Texas (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1801,
+  "name":"NVLY Fargo, N.D. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":63,
+  "name":"National Geographic Channel (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":62,
+  "name":"National Geographic Channel (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":61,
+  "name":"National Geographic Wild",
+  "callSign":"",
+  "network":""
+},{
+  "id":54,
+  "name":"Nick Jr.",
+  "callSign":"",
+  "network":""
+},{
+  "id":1730,
+  "name":"Nick Jr. (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":56,
+  "name":"Nickelodeon/Nick-at-Nite (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":55,
+  "name":"Nickelodeon/Nick-at-Nite (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":53,
+  "name":"Nicktoons",
+  "callSign":"",
+  "network":""
+},{
+  "id":50,
+  "name":"OWN: Oprah Winfrey Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":1599,
+  "name":"OWN: Oprah Winfrey Network (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":52,
+  "name":"Outdoor Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":51,
+  "name":"Ovation",
+  "callSign":"",
+  "network":""
+},{
+  "id":49,
+  "name":"Oxygen (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":48,
+  "name":"Oxygen (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":47,
+  "name":"Pop Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":46,
+  "name":"Pop Network (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":45,
+  "name":"Reelz",
+  "callSign":"",
+  "network":""
+},{
+  "id":44,
+  "name":"Rural Free Delivery TV",
+  "callSign":"",
+  "network":""
+},{
+  "id":43,
+  "name":"Science",
+  "callSign":"",
+  "network":""
+},{
+  "id":42,
+  "name":"Spike TV (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":41,
+  "name":"Spike TV (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":40,
+  "name":"Sportsman Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":39,
+  "name":"Syfy (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":38,
+  "name":"Syfy (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":37,
+  "name":"TBS: Turner Broadcasting System (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":36,
+  "name":"TBS: Turner Broadcasting System (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":33,
+  "name":"TLC (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":32,
+  "name":"TNT: Turner Network Television (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":27,
+  "name":"TV Land (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":26,
+  "name":"TV Land (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":25,
+  "name":"TV One",
+  "callSign":"",
+  "network":""
+},{
+  "id":1720,
+  "name":"TeenNick",
+  "callSign":"",
+  "network":""
+},{
+  "id":1341,
+  "name":"Telemundo Cable (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1076,
+  "name":"Telemundo Cable (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":35,
+  "name":"Tennis Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":34,
+  "name":"The Weather Channel",
+  "callSign":"",
+  "network":""
+},{
+  "id":31,
+  "name":"Travel Channel (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":30,
+  "name":"Travel Channel (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":29,
+  "name":"Trinity Broadcasting Network",
+  "callSign":"",
+  "network":""
+},{
+  "id":20,
+  "name":"USA (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":19,
+  "name":"USA (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":24,
+  "name":"UniMas Cable (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":23,
+  "name":"UniMas Cable (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":22,
+  "name":"Univision Cable",
+  "callSign":"",
+  "network":""
+},{
+  "id":4,
+  "name":"Univision Cable (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":21,
+  "name":"Up TV",
+  "callSign":"",
+  "network":""
+},{
+  "id":17,
+  "name":"VH1 (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":16,
+  "name":"VH1 (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1048,
+  "name":"VH1 Classic (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":18,
+  "name":"Velocity",
+  "callSign":"",
+  "network":""
+},{
+  "id":86,
+  "name":"Viceland (East)",
+  "callSign":"",
+  "network":""
+},{
+  "id":202,
+  "name":"WABC New York, N.Y. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":490,
+  "name":"WABM Birmingham, Ala. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":153,
+  "name":"WACP Atlantic City, N.J. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":596,
+  "name":"WADL Mount Clemens, Mich. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":398,
+  "name":"WALA Mobile, Ala. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":585,
+  "name":"WAND Decatur, Ill. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":606,
+  "name":"WATM Altoona, Pa. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":772,
+  "name":"WATN Memphis, Tenn. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1523,
+  "name":"WBBJ Jackson, Tenn. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1696,
+  "name":"WBBJ3 Jackson, Tenn. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":237,
+  "name":"WBBM Chicago, Ill. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1593,
+  "name":"WBGH Binghamton, N.Y. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1103,
+  "name":"WBIN Derry, N.H. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1374,
+  "name":"WBIQ Birmingham, Ala. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":157,
+  "name":"WBMA+ (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1306,
+  "name":"WBME Racine, Wis. (MeTV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":584,
+  "name":"WBND South Bend, Ind. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1505,
+  "name":"WBNG Binghamton, N.Y. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1692,
+  "name":"WBNG2 Binghamton, N.Y. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1725,
+  "name":"WBPH Philadelphia, PA. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1675,
+  "name":"WBPX Boston, Mass. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":485,
+  "name":"WBRC Birmingham, Ala. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1147,
+  "name":"WBRE Wilkes-Barre, Pa. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1074,
+  "name":"WBUI Decatur, Ill. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":312,
+  "name":"WBZ Boston, Mass. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":329,
+  "name":"WCAU Philadelphia, Pa. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1104,
+  "name":"WCBB Augusta, Me. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":204,
+  "name":"WCBS New York, N.Y. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1176,
+  "name":"WCGV Milwaukee, Wis. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1751,
+  "name":"WCHU Chicago, Ill. (Azteca)",
+  "callSign":"",
+  "network":""
+},{
+  "id":624,
+  "name":"WCIA Champaign, Ill. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":449,
+  "name":"WCIU Chicago, Ill. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1023,
+  "name":"WCIX Springfield, Ill. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":539,
+  "name":"WCNY Syracuse, N.Y. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":511,
+  "name":"WCPX Chicago, Ill. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":630,
+  "name":"WCSH Portland, Maine. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":311,
+  "name":"WCVB Boston, Mass. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":634,
+  "name":"WCVE Richmond, Va. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":635,
+  "name":"WCVW Richmond, Va. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1142,
+  "name":"WCWJ Jacksonville, Fla. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1004,
+  "name":"WCWW South Bend, Ind. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1047,
+  "name":"WDAY Fargo, N.D. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":10,
+  "name":"WDAY+ Combined Station",
+  "callSign":"",
+  "network":""
+},{
+  "id":637,
+  "name":"WDAZ Devils Lake, N.D. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":269,
+  "name":"WDIV Detroit, Mich. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":301,
+  "name":"WDJT Milwaukee, Wis. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":647,
+  "name":"WDSU New Orleans, La. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1728,
+  "name":"WDSU2 New Orleans, LA (MeTV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":396,
+  "name":"WEAR Pensacola, Fla. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":655,
+  "name":"WEIU Charleston, Ill. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1102,
+  "name":"WENH Durham, N.H. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1031,
+  "name":"WFBD Pensacola, Fla. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1112,
+  "name":"WFGX Fort Walton Beach, Fla. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":238,
+  "name":"WFLD Chicago, Ill. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":551,
+  "name":"WFMZ Allentown, Pa. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1774,
+  "name":"WFNA Gulf Shores, Ala. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":876,
+  "name":"WFOX Jacksonville, Fla. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1657,
+  "name":"WFOX2 Jacksonville, Fla. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":394,
+  "name":"WFTY Smithtown, N.Y. (UniMas)",
+  "callSign":"",
+  "network":""
+},{
+  "id":313,
+  "name":"WFXT Boston, Mass. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1324,
+  "name":"WGBC Meridian, Miss. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1525,
+  "name":"WGBC1 Meridian, Miss. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":491,
+  "name":"WGBH Boston, Mass. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":512,
+  "name":"WGBO Joliet, Ill. (Univis)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1107,
+  "name":"WGBX Boston, Mass. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":679,
+  "name":"WGME Portland, Maine. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":15,
+  "name":"WGN America",
+  "callSign":"",
+  "network":""
+},{
+  "id":162,
+  "name":"WGN Chicago, Ill. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":680,
+  "name":"WGNO New Orleans, La. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1575,
+  "name":"WGNO2 New Orleans, La. (AntennaTV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":689,
+  "name":"WHBQ Memphis, Tenn. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":401,
+  "name":"WHBR Pensacola, Fla. (CTN)",
+  "callSign":"",
+  "network":""
+},{
+  "id":314,
+  "name":"WHDH Boston, Mass. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":694,
+  "name":"WHNO New Orleans, La. (LeSEA)",
+  "callSign":"",
+  "network":""
+},{
+  "id":493,
+  "name":"WHYY Wilmington, Del. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":488,
+  "name":"WIAT Birmingham, Ala. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1302,
+  "name":"WICS+ (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1666,
+  "name":"WICZ Binghamton, N.Y. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":699,
+  "name":"WILL Urbana, Ill. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":300,
+  "name":"WISN Milwaukee, Wis. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":302,
+  "name":"WITI Milwaukee, Wis. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1504,
+  "name":"WIVT Binghamton, N.Y. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1823,
+  "name":"WIYE Parkersburg, WV (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":703,
+  "name":"WJAC Johnstown, Pa. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1170,
+  "name":"WJAX Jacksonville, Fla. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":343,
+  "name":"WJBK Detroit, Mich. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1748,
+  "name":"WJCT Jacksonville, Fla. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1660,
+  "name":"WJKT Jackson, Tenn. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":143,
+  "name":"WJLP Middletown, NJ (MeTV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":402,
+  "name":"WJTC Pensacola, Fla. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1182,
+  "name":"WJXT Jacksonville, Fla. (Ind)",
+  "callSign":"",
+  "network":""
+},{
+  "id":572,
+  "name":"WJXX Orange Park, Fla. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":711,
+  "name":"WKBD Detroit, Mich. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1413,
+  "name":"WKBS Altoona, Pa. (Cornerstone)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1129,
+  "name":"WKNO Memphis, Tenn. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":397,
+  "name":"WKRG Mobile, Ala. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1113,
+  "name":"WLAE New Orleans, La. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1514,
+  "name":"WLFI Lafayette, Ind. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":716,
+  "name":"WLIW Garden City, N.Y. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1707,
+  "name":"WLJT3 Lexington, Tenn. (Create)",
+  "callSign":"",
+  "network":""
+},{
+  "id":717,
+  "name":"WLMT Memphis, Tenn. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1412,
+  "name":"WLNY Riverhead, N.Y. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":236,
+  "name":"WLS Chicago, Ill. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1326,
+  "name":"WLVI Cambridge, Mass. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1708,
+  "name":"WLVT Allentown, Pa. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":239,
+  "name":"WMAQ Chicago, Ill. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1375,
+  "name":"WMAW Meridian, Miss. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1111,
+  "name":"WMBC Newton, N.J. (Ind)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1124,
+  "name":"WMC Memphis, Tenn. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1459,
+  "name":"WMCN Atlantic City, N.J. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1323,
+  "name":"WMDN Meridian, Miss. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":728,
+  "name":"WMFP Lawrence, Mass. (Cozi TV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1118,
+  "name":"WMLW Milwaukee, Wis. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":732,
+  "name":"WMTW Poland Spring, Maine. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":733,
+  "name":"WMUR Manchester, N.H. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":734,
+  "name":"WMVS Milwaukee, Wis. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":735,
+  "name":"WMVT Milwaukee, Wis. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1149,
+  "name":"WMYD Detroit, Mich. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1537,
+  "name":"WMYS South Bend, Ind. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":207,
+  "name":"WNBC New York, N.Y. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1837,
+  "name":"WNBJ Jackson, Tenn. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":739,
+  "name":"WNDU South Bend, Ind. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":741,
+  "name":"WNEP Scranton, Pa. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":494,
+  "name":"WNET Newark, N.J. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1213,
+  "name":"WNEU Merrimack, N.H. (Telemun)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1478,
+  "name":"WNIT South Bend, In. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1396,
+  "name":"WNJB New Brunswick, N.J. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":546,
+  "name":"WNJS Camden, N.J. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":744,
+  "name":"WNJU Linden, N.J. (Telemun)",
+  "callSign":"",
+  "network":""
+},{
+  "id":745,
+  "name":"WNOL New Orleans, La. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1802,
+  "name":"WNOL2 New Orleans, La. (ThisTV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":536,
+  "name":"WNYS Syracuse, N.Y. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":206,
+  "name":"WNYW New York, N.Y. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1348,
+  "name":"WOAI San Antonio, Texas. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":752,
+  "name":"WOLF Hazleton, Pa. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1824,
+  "name":"WOVA Parkersburg, W.Va. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1454,
+  "name":"WPFO Waterville, Maine. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":545,
+  "name":"WPHL Philadelphia, Pa. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":188,
+  "name":"WPIX New York, N.Y. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1313,
+  "name":"WPME Lewiston, Maine. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":400,
+  "name":"WPMI Mobile, Ala. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1695,
+  "name":"WPPX Wilmington, Del. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":547,
+  "name":"WPSG Philadelphia, Pa. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":768,
+  "name":"WPSU Clearfield, Pa. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":327,
+  "name":"WPVI Philadelphia, Pa. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":513,
+  "name":"WPWR Gary, Ind. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":618,
+  "name":"WPXC Brunswick, Ga. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1214,
+  "name":"WPXD Ann Arbor, Mich. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1065,
+  "name":"WPXE Kenosha, Wis. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":489,
+  "name":"WPXH Gadsden, Ala. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1083,
+  "name":"WPXL New Orleans, La. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":504,
+  "name":"WPXN New York, N.Y. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":784,
+  "name":"WPXT Portland, Maine. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1084,
+  "name":"WPXX Memphis, Tenn. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1414,
+  "name":"WQMY Williamsport, Pa. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1539,
+  "name":"WQPX Scranton, Pa. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":189,
+  "name":"WREG Memphis, Tenn. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":792,
+  "name":"WRIC Petersburg, Va. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":793,
+  "name":"WRLH Richmond, Va. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":795,
+  "name":"WRSP+ (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":149,
+  "name":"WRTV-LIN Indianapolis, Ind. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":230,
+  "name":"WSBK Boston, Mass. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":801,
+  "name":"WSBT South Bend, Ind. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":805,
+  "name":"WSJV Elkhart, Ind. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1711,
+  "name":"WSKG Binghamton, N.Y. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":514,
+  "name":"WSNS Chicago, Ill. (Telemun)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1759,
+  "name":"WSPX Syracuse, N.Y. (ION)",
+  "callSign":"",
+  "network":""
+},{
+  "id":535,
+  "name":"WSTM Syracuse, N.Y. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1477,
+  "name":"WSTQ Syracuse, N.Y. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1089,
+  "name":"WSWB Scranton, Pa. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":538,
+  "name":"WSYR Syracuse, N.Y. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":537,
+  "name":"WSYT Syracuse, N.Y. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":810,
+  "name":"WTAJ Altoona, Pa. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1534,
+  "name":"WTAP Parkersburg, W.Va. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":148,
+  "name":"WTHR-LIN Indianapolis, Ind. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":826,
+  "name":"WTLV Jacksonville, Fla. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":303,
+  "name":"WTMJ Milwaukee, Wis. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":823,
+  "name":"WTOK Meridian, Miss. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1423,
+  "name":"WTOK3 Meridian, Miss. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":487,
+  "name":"WTTO+ (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":439,
+  "name":"WTTW Chicago, Ill. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":831,
+  "name":"WTVE Reading, Pa. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":833,
+  "name":"WTVH Syracuse, N.Y. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1157,
+  "name":"WTVR Richmond, Va. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":496,
+  "name":"WTVS Detroit, Mich. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":161,
+  "name":"WTWV Memphis, Tenn. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":328,
+  "name":"WTXF Philadelphia, Pa. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1315,
+  "name":"WUNI Worcester, Mass. (Univis)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1779,
+  "name":"WUOA+ (ThisTV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":841,
+  "name":"WUPL Slidell, La. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1155,
+  "name":"WUPV Ashland, Va. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1355,
+  "name":"WUTF Boston, Mass. (UniMas)",
+  "callSign":"",
+  "network":""
+},{
+  "id":548,
+  "name":"WUVP Vineland, N.J. (Univis)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1317,
+  "name":"WVIA Scranton, Pa. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":486,
+  "name":"WVTM Birmingham, Ala. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1320,
+  "name":"WVTV Milwaukee, Wis. (CW)",
+  "callSign":"",
+  "network":""
+},{
+  "id":849,
+  "name":"WVUE New Orleans, La. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1321,
+  "name":"WWBT Richmond, Va. (NBC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":851,
+  "name":"WWCP Johnstown, Pa. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":342,
+  "name":"WWJ Detroit, Mich. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":854,
+  "name":"WWL New Orleans, La. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":516,
+  "name":"WWME Chicago, Ill. (MeTV)",
+  "callSign":"",
+  "network":""
+},{
+  "id":261,
+  "name":"WWOR Secaucus, N.J. (MyNet)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1526,
+  "name":"WWRS Mayville, Wis. (TBN)",
+  "callSign":"",
+  "network":""
+},{
+  "id":549,
+  "name":"WWSI Atlantic City, N.J. (Telemun)",
+  "callSign":"",
+  "network":""
+},{
+  "id":517,
+  "name":"WXFT Aurora, Ill. (UniMas)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1385,
+  "name":"WXGA Waycross, Ga. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":147,
+  "name":"WXIN-LIN Indianapolis, Ind. (FOX)",
+  "callSign":"",
+  "network":""
+},{
+  "id":861,
+  "name":"WXTV Paterson, N.J. (Univis)",
+  "callSign":"",
+  "network":""
+},{
+  "id":262,
+  "name":"WXYZ Detroit, Mich. (ABC)",
+  "callSign":"",
+  "network":""
+},{
+  "id":550,
+  "name":"WYBE Philadelphia, Pa. (IND)",
+  "callSign":"",
+  "network":""
+},{
+  "id":863,
+  "name":"WYCC Chicago, Ill. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":864,
+  "name":"WYES New Orleans, La. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":865,
+  "name":"WYIN Gary, Ind. (PBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":866,
+  "name":"WYOU Scranton, Pa. (CBS)",
+  "callSign":"",
+  "network":""
+},{
+  "id":1541,
+  "name":"WYTU Milwaukee, Wis. (Telemund)",
+  "callSign":"",
+  "network":""
+},{
+  "id":14,
+  "name":"Women's Entertainment",
+  "callSign":"",
+  "network":""
+},{
+  "id":1653,
+  "name":"Women's Entertainment Network (West)",
+  "callSign":"",
+  "network":""
+},{
+  "id":28,
+  "name":"truTV",
+  "callSign":"",
+  "network":""
+},{
+  "id":11,
+  "name":"truTV (West)",
+  "callSign":"",
+  "network":""
+}]
